@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @khesehang
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...Java Script
+- 🌱 I’m currently learning ...Java Script,Mern stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...facebook Gmail
+- 📫 How to reach me ...samsohangkhesehang@gmail.com
 
 <!---
 khesehang/khesehang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
